@@ -5,3 +5,5 @@ add content releted to adventure in the file.
 ading content about the jungle so we can enjoy the jungle.
 
 add the content about the book reading.
+
+adding content after the cloning in the other folder of local system.
